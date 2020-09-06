@@ -13,7 +13,7 @@ permalink: /
 </i>
 </p>
 
-### Labels / Organisations / Places 🌱
+### 🌱 Labels / Organisations / Places 
 - [[Senko Issha]] [先行一車](Senko%20Issha){: .internal-link}
 - [[Ting Shuo Hear Say]]
 - [[Bardo Pond]] [巴多池塘](Bardo%20Pond){: .internal-link}
@@ -22,7 +22,7 @@ permalink: /
 - [[Merdogon Records]] [狗屎語](Merdogon%20Records){: .internal-link}
 
 ---
-### People 🌱
+### 🌱 People 
 
 - [[Anteng Tsai]]
 - [[Bei San Q Nan]] [北山Q男](Bei%20San%20Q%20Nan){: .internal-link}
@@ -39,7 +39,7 @@ permalink: /
 - [[Xin-Yun Cai]]
 
 ---
-### Groups / Projects 🌱
+### 🌱 Groups / Projects
 
 - [[Be Ni Ya Ben]] [美麗亞幫](Be%20Ni%20Ya%20Ben){: .internal-link}
 - [[No-Input Army]]
@@ -47,7 +47,7 @@ permalink: /
 - [[Saint Sloth Machine]] [聖・死啦什麼心](Saint%20Sloth%20Machine){: .internal-link}
 
 ---
-### Collaborations / Other Contributors 🌱
+### 🌱 Collaborations / Other Contributors
 
 - [Etang Chen](http://etangchen.com)
 - [I-Cheng Lin](https://samplerecord.blogspot.com/)
@@ -61,7 +61,9 @@ permalink: /
 
 
 ---
-This site is constructed using the [digital garden template](https://github.com/maximevaillancourt/digital-garden-jekyll-template). 
+This site is constructed using the [digital garden template](https://github.com/maximevaillancourt/digital-garden-jekyll-template). You can find everything there. However, the source code of this site is avalilable on the [GitHub site](https://github.com/Carquois42/digital-garden-experimental-tw). 
+
+---
 
 
 <style>
