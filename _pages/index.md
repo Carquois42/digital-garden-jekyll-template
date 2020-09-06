@@ -9,7 +9,7 @@ permalink: /
 
   <q style="font-size:1.3rem" cite="https://grmnetwork.blogspot.com/2020/04/jerome-noetinger.html"> In the absence of hatred, I would contemplate the resonance of the ruins in the vestiges of chaos. </q> 
 <i>
-   - Jérôme Noetinger 
+   - Jérôme Noetinger, 2020 
 </i>
 </p>
 
