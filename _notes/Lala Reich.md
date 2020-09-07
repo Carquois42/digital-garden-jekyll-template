@@ -7,14 +7,14 @@ image: /assets/Lala.jpg
 <p align="center" style="font-size: 0.7em"> Photo by Afan Zhong </p>
 
 ### 簡介
-表象的背後還有無限的表象
-身為一個處境層層穿越。
+她平常只是個到處散落的碎片，打鼓時是少數可以感受到完整的時刻，無法言語的情感和復仇被壓縮成聲音穿透了出來。聖死心是她學習到使用音頻的落差組織鼓聲的經歷，希望成為好笑的人和更俐落的鼓手。
 
 ----
 ### Short Bios
-There is always something external behind the surface. She stands in a room and somehow the room is extending infinitely.
+When she plays drum, sometimes she sounds like an animal.
 
-Special Thanks:
-
-[[Saint Sloth Machine]], [[Jyun-Ao Caesar]], [[Senko Issha]], [Seijiro Murayama](https://urojiise.wixsite.com/seijiromurayama).
-
+---
+### Links
+- [SoundCloud](https://soundcloud.com/xxxlalaxxx)
+- [Paintings](https://www.instagram.com/reich.lala/)
+- 
