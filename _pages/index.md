@@ -27,6 +27,7 @@ permalink: /
 - [[Anteng Tsai]]
 - [[Bei San Q Nan]] [北山Q男](Bei%20San%20Q%20Nan){: .internal-link}
 - [[Chia-Chun Xu]]
+- [[Chongwei Li]] (李那韶)
 - [[David]]
 - [[Dino]]
 - [[DJ Rex Chen]]
@@ -37,6 +38,8 @@ permalink: /
 - [[Lala Reich]]
 - [[Xiao Liu]]
 - [[Xin-Yun Cai]]
+- [[Yu-Chiao Yang]] (Somanana Rain)
+
 
 ---
 ### 🌱 Groups / Projects
